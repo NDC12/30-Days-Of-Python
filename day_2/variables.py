@@ -10,4 +10,4 @@ is_married = 'Jerome'
 is_true = 'LEbron is the GOAT'
 is_light_on = 'yes'
 dad, mom, brother, sister = 'papa', 'maman', 'frerot', 'soeur'
-type(first_name)
+print(type(first_name))
